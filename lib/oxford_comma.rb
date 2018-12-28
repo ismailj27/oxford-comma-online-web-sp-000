@@ -1,3 +1,3 @@
 def oxford_comma(array)
-  return 
+  return array[0]
 end
